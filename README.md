@@ -1,6 +1,6 @@
-This repository includes the code for  manuscript, "The Class Imbalance Problem in Deep Learning", by Kushankur Ghosh ,  Colin Bellinger,  Roberto Corizzo,  Paula Branco,  Bartosz Krawczyk and Nathalie Japkowicz submitted to Machine Learning
+This repository includes the code for  manuscript, "The Class Imbalance Problem in Deep Learning", by Kushankur Ghosh ,  Colin Bellinger,  Roberto Corizzo,  Paula Branco,  Bartosz Krawczyk and Nathalie Japkowicz published in Machine Learning journal, Springer.
 
-This code correspondes to the paper entitled 'The Class Imbalance Problem in Deep Learning' submitted to the Special Issue on Imbalanced Learning in the journal Machine Learning with co-authorship from:
+This code correspondes to the paper entitled 'The Class Imbalance Problem in Deep Learning' published in the Special Issue on Imbalanced Learning in the journal Machine Learning with co-authorship from:
 
 Roberto Corizzo - rcorizzo@american.edu Nathalie Japkowicz - japkowic@american.edu Kushankur Ghosh - kushanku@ualberta.ca Paula Branco - pbranco@uottawa.ca Bartosz Krawczyk - bkrawczyk@vcu.edu
 
